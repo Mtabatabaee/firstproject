@@ -3,7 +3,7 @@ import 'package:barcode_scan/barcode_scan.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 import 'package:logger/logger.dart';
-import 'package:qr_scan_code/configs/logger.dart';
+import "logger.dart";
 
 class QrCodeScan extends StatefulWidget {
   @override
