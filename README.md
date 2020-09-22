@@ -23,3 +23,4 @@ samples, guidance on mobile development, and a full API reference.
 # firstproject
 # QRscanner
 # firstproject
+# scanner
